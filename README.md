@@ -46,3 +46,7 @@ Jas Liu
 1. created a pie object with a name, filling, and dough
 2. yes i was able to merge
 
+Luke Samuels
+1. The code creates pie objects with certain fillings and crusts
+2. I wasn't able to merge because I don't have write access.
+
