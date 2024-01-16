@@ -46,3 +46,7 @@ Jas Liu
 1. created a pie object with a name, filling, and dough
 2. yes i was able to merge
 
+Rhys Sorenson-Graff
+1. The code defines a pie class with a name, filling, and dough. Then it creates several copies based on the input of students and prints the first pie.
+2. I was able to merge
+
