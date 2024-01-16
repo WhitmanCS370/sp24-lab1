@@ -42,3 +42,6 @@ Gabriel Paris-Moe
 1. created a Pie object and then initialized many different pie objects
 2. yes I was able to merge 
 
+Jacob Burrill
+1. Creates a pie object that has a name, filling and crust property when called.
+2. Yes I was able to merge. 
