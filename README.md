@@ -48,5 +48,5 @@ Jas Liu
 
 Rhys Sorenson-Graff
 1. The code defines a pie class with a name, filling, and dough. Then it creates several copies based on the input of students and prints the first pie.
-2. I was able to merge
+2. I was able to merge after a confict
 
