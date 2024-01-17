@@ -48,5 +48,5 @@ Jas Liu
 
 Clara Bates
 1. The code creates a Pie object that has a name, filling, and crust.
-2. I was able to successfuly merge the changes.
+2. I was able to successfully merge the changes.
 
