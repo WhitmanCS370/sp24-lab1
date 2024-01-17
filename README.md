@@ -51,4 +51,7 @@ Clara Bates
 2. I was able to successfully merge the changes.
 
 Terence Mahlatini
-1. The code creates a Pie object and I was able to add a new pie object, "Cherry", commit the change and successfully merge back to the main branch. 
+1. The code creates a Pie object and I was able to add a new pie object, "Cherry", commit the change and successfully merge back to the main branch.
+
+John Leeds
+* I was able to successfully create a new pie (peach pie) and merge it into the main branch.  There were no merge conflicts.
