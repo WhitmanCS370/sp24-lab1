@@ -12,7 +12,7 @@ p5 = Pie("Strawberry Rhubarb", "Strawberry and Ruhbarb Glaze", "graham crackers"
 p6 = Pie("Pumpkin", "pumpkin", "dough")
 p7 = Pie("Pecan", "pecans and syrup", "store bought")
 p8 = Pie("Cherry", "cherries", "dough")
-
+p9 = Pie("Peach", "peaches", "dough")
 
 print(p1.name)
 print(p1.filling)
