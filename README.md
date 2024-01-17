@@ -50,3 +50,5 @@ Clara Bates
 1. The code creates a Pie object that has a name, filling, and crust.
 2. I was able to successfully merge the changes.
 
+Terence Mahlatini
+1. The code creates a Pie object and I was able to add a new pie object, "Cherry", commit the change and successfully merge back to the main branch. 
